@@ -1,3 +1,4 @@
+'''python
 class Relu:
   def __init__(self):
     self.mask = None
@@ -13,3 +14,4 @@ class Relu:
     dx = dout
     
     return dx
+'''
